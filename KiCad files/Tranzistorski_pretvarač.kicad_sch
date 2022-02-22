@@ -1520,7 +1520,7 @@
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 84432c22-a78f-4d3f-b5bc-caf51336bbd7)
   )
-  (text "C1-4 obavezno kvalitetni blok kondenzatori, ne elektroliti\n\n- staviti banana priključnice umjesto onih s vijcima"
+  (text "C1-4 obavezno kvalitetni blok kondenzatori, ne elektroliti\n\n- dodati banana priključnice\n- dodati qr kod kao link na dokumentaciju\n- dodati driver za mosfet ako bude potrebno (testirati pločicu barem 1h)"
     (at 20.32 171.45 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid af0f2ee1-555d-4dbc-be05-20fe82a3a7f0)
