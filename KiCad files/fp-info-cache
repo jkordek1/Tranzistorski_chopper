@@ -1,4 +1,4 @@
-19822151223080513
+19825443702459917
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84531,6 +84531,20 @@ varistor SIOV
 0
 2
 2
+footprint
+DELTRON 4mm banana socket - black
+
+
+0
+2
+1
+footprint
+DELTRON 4mm banana socket - red
+
+
+0
+2
+1
 footprint
 MountingHole_3.2mm_M3
 Mounting Hole 3.2mm, no annular, M3
