@@ -1102,7 +1102,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 313d7939-b1f4-4f95-8fbf-38d2d1bd0a6a)
   )
-  (polyline (pts (xy 39.37 35.56) (xy 41.91 110.49))
+  (polyline (pts (xy 41.91 35.56) (xy 41.91 110.49))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 3156994e-8a57-43d1-b145-ea3dde52e784)
   )
@@ -1194,7 +1194,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 76560d6a-cf21-47b7-bc05-5b361cd6b232)
   )
-  (polyline (pts (xy 196.85 35.56) (xy 39.37 35.56))
+  (polyline (pts (xy 196.85 35.56) (xy 41.91 35.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 769de65b-8094-48b2-96fc-de21cae616c6)
   )
@@ -1365,8 +1365,8 @@
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 84432c22-a78f-4d3f-b5bc-caf51336bbd7)
   )
-  (text "- C1-4 obavezno kvalitetni blok kondenzatori, ne elektroliti\n- footprint potenciometra nema one dvije rupe\n- dodati qr kod kao link na dokumentaciju\n- invertirati signal?\n- nazivi priključnica\n- nazivi mjernih mjesta\n- keepout area oko vijka mosfeta\n- maknuti oznake f1 i f2\n- testirati v1 na induktivnom trošilu\n- da li treba onaj desni GND?"
-    (at 20.955 183.515 0)
+  (text "- pogledati na osciloskopu izlaz mosfeta\n- C1-4 obavezno kvalitetni blok kondenzatori, ne elektroliti\n- footprint potenciometra nema one dvije rupe\n- dodati qr kod kao link na dokumentaciju\n- invertirati signal?\n- nazivi priključnica\n- nazivi mjernih mjesta\n- keepout area oko vijka mosfeta\n- testirati v1 na induktivnom trošilu\n- da li treba onaj desni GND?\n- dodati tvz logo\n- smanjti svoj logo\n- manji elektrolit? Da li on uopće treba?\n- na footprintu J9 staviti plavu ili zelenu pruključnicu\n- potenciometar rupe"
+    (at 20.32 192.405 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid af0f2ee1-555d-4dbc-be05-20fe82a3a7f0)
   )
