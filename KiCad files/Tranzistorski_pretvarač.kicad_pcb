@@ -2155,7 +2155,7 @@
   (dimension (type aligned) (layer "User.9") (tstamp 1ce64549-a6b3-4360-8086-5293c363437f)
     (pts (xy 188.75 150.9) (xy 88.8 150.9))
     (height -10.6)
-    (gr_text "99,9500 mm" (at 138.775 160.35) (layer "User.9") (tstamp a650e8b7-1004-4b50-b59e-4647f395681e)
+    (gr_text "99,9500 mm" (at 138.775 160.35) (layer "User.9") (tstamp 1ce64549-a6b3-4360-8086-5293c363437f)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
