@@ -1365,8 +1365,8 @@
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 84432c22-a78f-4d3f-b5bc-caf51336bbd7)
   )
-  (text "- pogledati na osciloskopu izlaz mosfeta\n- C1-4 obavezno kvalitetni blok kondenzatori, ne elektroliti\n- footprint potenciometra nema one dvije rupe\n- dodati qr kod kao link na dokumentaciju\n- invertirati signal?\n- nazivi priključnica\n- nazivi mjernih mjesta\n- keepout area oko vijka mosfeta\n- testirati v1 na induktivnom trošilu\n- da li treba onaj desni GND?\n- dodati tvz logo\n- smanjti svoj logo\n- manji elektrolit? Da li on uopće treba?\n- na footprintu J9 staviti plavu ili zelenu pruključnicu\n- potenciometar rupe"
-    (at 20.32 192.405 0)
+  (text "- pogledati na osciloskopu izlaz mosfeta\n- C1-4 obavezno kvalitetni blok kondenzatori, ne elektroliti\n- footprint potenciometra nema one dvije rupe\n- dodati qr kod kao link na dokumentaciju\n- invertirati signal?\n- nazivi priključnica\n- nazivi mjernih mjesta\n- keepout area oko vijka mosfeta\n- testirati v1 na induktivnom trošilu\n- da li treba onaj desni GND?\n- dodati tvz logo\n- smanjti svoj logo\n- manji elektrolit? Da li on uopće treba?\n- na footprintu J9 staviti plavu ili zelenu pruključnicu\n- potenciometar rupe\n- koje sve napone je potrebno mjeriti?\n- jel problem niži napon na pinu\n- ako je pot do kraja, pila nestane"
+    (at 19.05 195.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid af0f2ee1-555d-4dbc-be05-20fe82a3a7f0)
   )
