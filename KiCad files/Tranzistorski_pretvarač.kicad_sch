@@ -2024,7 +2024,7 @@
     (property "Value" "1000u" (id 1) (at 124.079 48.9455 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P5.00mm" (id 2) (at 121.92 47.625 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D17.0mm_P7.50mm" (id 2) (at 121.92 47.625 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 121.92 47.625 0)
@@ -2203,7 +2203,7 @@
       (reference "C4") (unit 1) (value "220n") (footprint "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/c39275c1-7838-4ebf-8487-0dfef76f3fff"
-      (reference "C5") (unit 1) (value "1000u") (footprint "Capacitor_THT:CP_Radial_D13.0mm_P5.00mm")
+      (reference "C5") (unit 1) (value "1000u") (footprint "Capacitor_THT:CP_Radial_D17.0mm_P7.50mm")
     )
     (path "/28c0ef69-12df-44c9-8574-1b20346ebf0f"
       (reference "C6") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
