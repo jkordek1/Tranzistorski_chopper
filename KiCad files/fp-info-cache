@@ -1,4 +1,4 @@
-19827077030993389
+19827090958145321
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84588,6 +84588,13 @@ Through hole pin header THT 1x02 2.54mm single row
 2
 1
 footprint
+qr
+
+
+0
+0
+0
+footprint
 tranzistor_socket
 Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x03 2.54mm single row
@@ -84596,13 +84603,6 @@ Through hole socket strip THT 1x03 2.54mm single row
 3
 footprint
 tvz
-
-
-0
-0
-0
-footprint
-tvz2
 
 
 0
