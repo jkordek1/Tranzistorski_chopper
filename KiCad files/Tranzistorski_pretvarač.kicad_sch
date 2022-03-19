@@ -1215,11 +1215,6 @@
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 4bf65243-06f0-496c-a498-925d7808dd12)
   )
-  (text "- C1-4 obavezno kvalitetni blok kondenzatori, ne elektroliti"
-    (at 18.415 188.595 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid af0f2ee1-555d-4dbc-be05-20fe82a3a7f0)
-  )
 
   (label "COL" (at 165.1 86.995 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
