@@ -1234,8 +1234,8 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 4f0dfebc-e7f6-45a5-9f1e-4a46e29fdb26)
   )
-  (text "- zamijeniti IRLZ44N sa IRFZ44N jer ima viši napon Ugs (20V umjesto 16V)"
-    (at 24.13 24.13 0)
+  (text "zamijeniti IRLZ44N sa IRFZ44N jer ima viši napon Ugs (20V umjesto 16V)\nILI\nstaviti R4 da bude 10k"
+    (at 17.78 29.845 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 8c497335-9f19-4d8f-81b9-d3f6e5560190)
   )
@@ -1498,7 +1498,7 @@
     (property "Reference" "Q1" (id 0) (at 199.517 71.5553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 199.517 74.0922 0)
+    (property "Value" "IRFZ44N" (id 1) (at 199.517 74.0922 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "footprint:TO-220F-3_Horizontal_TabDown" (id 2) (at 200.66 74.295 0)
