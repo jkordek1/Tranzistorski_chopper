@@ -1,9 +1,9 @@
 # Tranzistorski_chopper
 
-[![Version](https://img.shields.io/github/v/release/jkordek1/Man-Don-t-Get-Angry-Board-game)](https://github.com/jkordek1/Man-Don-t-Get-Angry-Board-game/releases/tag/Initial)
+[![Version](https://img.shields.io/github/v/release/jkordek1/Tranzistorski_chopper)](https://github.com/jkordek1/Tranzistorski_chopper/releases/tag/Initial)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/jkordek1/Man-Don-t-Get-Angry-Board-game)](https://github.com/jkordek1/Man-Don-t-Get-Angry-Board-game/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/Man-Don-t-Get-Angry-Board-game)](https://github.com/jkordek1/Man-Don-t-Get-Angry-Board-game/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/jkordek1/Tranzistorski_chopper)](https://github.com/jkordek1/Tranzistorski_chopper/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/Tranzistorski_chopper)](https://github.com/jkordek1/Tranzistorski_chopper/pulls)
 
 ## About
  Tranzistorski chopper korišten za laboratorijske vježbe
