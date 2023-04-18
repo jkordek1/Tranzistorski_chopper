@@ -1,4 +1,4 @@
-# Tranzistorski chopper
+# Tranzistorski_chopper
 
 [![Version](https://img.shields.io/github/v/release/jkordek1/Tranzistorski_chopper)](https://github.com/jkordek1/Tranzistorski_chopper/releases/tag/Initial)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
