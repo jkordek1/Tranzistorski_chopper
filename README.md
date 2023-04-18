@@ -10,5 +10,5 @@
  
  ## Images
 <p align="center">
- <img width="500" src="https://raw.githubusercontent.com/jkordek1/Tranzistorski_chopper/main/Images/chopper.PNG">
+ <img width="600" src="https://raw.githubusercontent.com/jkordek1/Tranzistorski_chopper/main/Images/chopper.PNG">
 </p>
