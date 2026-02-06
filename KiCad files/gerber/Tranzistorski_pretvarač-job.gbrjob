@@ -3,13 +3,13 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.4)"
+      "Version": "9.0.7"
     },
-    "CreationDate": "2022-04-11T16:33:43+02:00"
+    "CreationDate": "2026-02-06T14:33:53+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Tranzistorski_pretvara_",
+      "Name": "Tranzistorski_pretvarač",
       "GUID": "5472616e-7a69-4737-946f-72736b695f70",
       "Revision": "rev?"
     },
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 1.27,
       "TrackToRegion": 0.2,
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Tranzistorski_pretvara\\u010D-F_Cu.gbr",
+      "Path": "Tranzistorski_pretvarač-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-B_Cu.gbr",
+      "Path": "Tranzistorski_pretvarač-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-F_Paste.gbr",
+      "Path": "Tranzistorski_pretvarač-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-B_Paste.gbr",
+      "Path": "Tranzistorski_pretvarač-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-F_Silkscreen.gbr",
+      "Path": "Tranzistorski_pretvarač-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-B_Silkscreen.gbr",
+      "Path": "Tranzistorski_pretvarač-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-F_Mask.gbr",
+      "Path": "Tranzistorski_pretvarač-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-B_Mask.gbr",
+      "Path": "Tranzistorski_pretvarač-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Tranzistorski_pretvara\\u010D-Edge_Cuts.gbr",
+      "Path": "Tranzistorski_pretvarač-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
